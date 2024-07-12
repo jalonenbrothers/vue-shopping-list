@@ -1,16 +1,90 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg fill="#000000" version="1.1" id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
-	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
-<style type="text/css">
+
+<svg
+   fill="#000000"
+   version="1.1"
+   id="icon"
+   width="800px"
+   height="800px"
+   viewBox="0 0 32 32"
+   xml:space="preserve"
+   sodipodi:docname="drag-handle-icon.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs6" /><sodipodi:namedview
+   id="namedview6"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="1.87125"
+   inkscape:cx="399.7328"
+   inkscape:cy="403.74081"
+   inkscape:window-width="3200"
+   inkscape:window-height="1711"
+   inkscape:window-x="5591"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="icon" />
+<style
+   type="text/css"
+   id="style1">
 	.st0{fill:none;}
 </style>
-<title>draggable</title>
-<rect x="10" y="6" width="4" height="4"/>
-<rect x="18" y="6" width="4" height="4"/>
-<rect x="10" y="14" width="4" height="4"/>
-<rect x="18" y="14" width="4" height="4"/>
-<rect x="10" y="22" width="4" height="4"/>
-<rect x="18" y="22" width="4" height="4"/>
-<rect id="_Transparent_Rectangle_" class="st0" width="32" height="32"/>
+<title
+   id="title1">draggable</title>
+<rect
+   x="10"
+   y="6"
+   width="4"
+   height="4"
+   id="rect1"
+   style="fill:#2196f3;fill-opacity:1" />
+<rect
+   x="18"
+   y="6"
+   width="4"
+   height="4"
+   id="rect2"
+   style="fill:#2196f3;fill-opacity:1" />
+<rect
+   x="10"
+   y="14"
+   width="4"
+   height="4"
+   id="rect3"
+   style="fill:#2196f3;fill-opacity:1" />
+<rect
+   x="18"
+   y="14"
+   width="4"
+   height="4"
+   id="rect4"
+   style="fill:#2196f3;fill-opacity:1" />
+<rect
+   x="10"
+   y="22"
+   width="4"
+   height="4"
+   id="rect5"
+   style="fill:#2196f3;fill-opacity:1" />
+<rect
+   x="18"
+   y="22"
+   width="4"
+   height="4"
+   id="rect6"
+   style="fill:#2196f3;fill-opacity:1" />
+<rect
+   id="_Transparent_Rectangle_"
+   class="st0"
+   width="32"
+   height="32" />
 </svg>
